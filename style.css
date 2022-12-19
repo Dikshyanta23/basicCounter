@@ -1,0 +1,33 @@
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 25px;
+}
+#main-box {
+        margin: auto;
+        border: 3px solid green;
+        padding: 10px;
+        width: 300px;
+        height: 300px;
+        text-align: center;
+}
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+#counter {
+    padding: 15px 0px;
+    font-size: 20px;
+    margin: 20px 0px;
+}
+#buttons {
+    padding-top: 20px;
+}
+body { 
+    position: relative;
+  }
